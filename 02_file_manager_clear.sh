@@ -2,7 +2,6 @@
 # =====================================================================
 # Script: 02_file_manager_cleaner.sh
 # Descripción: Gestiona archivos, limpia temporales y genera auditoría
-# Autor: Engels Peña Hidalgo & Guzman Mercado Pool Martin
 # Fecha: Junio 2026
 # =====================================================================
 

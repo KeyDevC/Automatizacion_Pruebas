@@ -2,7 +2,6 @@
 # =====================================================================
 # Script: 01_sys_check.sh
 # Descripción: Verifica el estado del sistema y genera reporte
-# Autor: Engels Peña Hidalgo & Guzman Mercado Pool Martin
 # Fecha: Junio 2026
 # =====================================================================
 
