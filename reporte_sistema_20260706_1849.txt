@@ -1,0 +1,12 @@
+======================================
+REPORTE DE ESTADO DEL SISTEMA -2026-07-06 18:49:38
+=====================================
+Usuario ACTUAL : poolg
+hostname : poolg-VirtualBox
+Sistema Operativo: Ubuntu 26.04 LTS
+Memoria libre : 1905 MB 
+Uso de Disco Raiz : 18%
+-------------------------------------
+[INFO] el espacio en el disco esta dentro de los parametros normales.
+====================================================================
+ESTADO FINAL: REVISION COMPLETADA.

@@ -1,0 +1,27 @@
+================================================================
+  LOG DE AUDITORÍA - ELIMINACIÓN DE ARCHIVOS TEMPORALES
+================================================================
+Fecha de Inicio: 2026-07-10 05:22:42
+Usuario Ejecutor: poolg
+Directorio Analizado: ./temp_automatizacion
+Criterio de Eliminación: Archivos .tmp con más de 0 días
+Hostname: poolg-VirtualBox
+================================================================
+
+----------------------------------------------------------------
+[ELIMINADO] Archivo: mi_archivo.tmp
+  Ruta Completa: ./temp_automatizacion/mi_archivo.tmp
+  Tamaño: 0 bytes
+  Fecha de Modificación: 2026-07-05 05:22:12
+  Fecha de Eliminación: 2026-07-10 05:22:42
+  Eliminado por: poolg
+  Estado: ÉXITO
+----------------------------------------------------------------
+
+================================================================
+  RESUMEN DE LA EJECUCIÓN
+================================================================
+Total Archivos Eliminados: 1
+Total Bytes Liberados: 0 bytes
+Fecha de Finalización: 2026-07-10 05:22:42
+================================================================
