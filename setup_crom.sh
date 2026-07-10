@@ -2,7 +2,6 @@
 # =====================================================================
 # Script: setup_cron.sh
 # Descripción: Configura tareas programadas en cron
-# Autor: Engels Peña Hidalgo & Guzman Mercado Pool Martin
 # Fecha: Junio 2026
 # =====================================================================
 
